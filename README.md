@@ -1,4 +1,4 @@
-# SHAPEAI web dev with javascript and react.js BOOTCAMP
+# SHAPEAI WEB DEV WITH JAVA SCRIPT AND REACT.JS BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
